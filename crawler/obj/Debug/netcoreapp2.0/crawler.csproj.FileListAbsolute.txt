@@ -1,0 +1,10 @@
+/home/belle/RiderProjects/crawler/crawler/bin/Debug/netcoreapp2.0/crawler.deps.json
+/home/belle/RiderProjects/crawler/crawler/bin/Debug/netcoreapp2.0/crawler.runtimeconfig.json
+/home/belle/RiderProjects/crawler/crawler/bin/Debug/netcoreapp2.0/crawler.runtimeconfig.dev.json
+/home/belle/RiderProjects/crawler/crawler/bin/Debug/netcoreapp2.0/crawler.dll
+/home/belle/RiderProjects/crawler/crawler/bin/Debug/netcoreapp2.0/crawler.pdb
+/home/belle/RiderProjects/crawler/crawler/obj/Debug/netcoreapp2.0/crawler.csproj.CoreCompileInputs.cache
+/home/belle/RiderProjects/crawler/crawler/obj/Debug/netcoreapp2.0/crawler.AssemblyInfoInputs.cache
+/home/belle/RiderProjects/crawler/crawler/obj/Debug/netcoreapp2.0/crawler.AssemblyInfo.cs
+/home/belle/RiderProjects/crawler/crawler/obj/Debug/netcoreapp2.0/crawler.dll
+/home/belle/RiderProjects/crawler/crawler/obj/Debug/netcoreapp2.0/crawler.pdb

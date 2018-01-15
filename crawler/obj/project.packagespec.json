@@ -1,0 +1,41 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/belle/RiderProjects/crawler/crawler/crawler.csproj",
+    "projectName": "crawler",
+    "projectPath": "/home/belle/RiderProjects/crawler/crawler/crawler.csproj",
+    "outputPath": "/home/belle/RiderProjects/crawler/crawler/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "HtmlAgilityPack": {
+          "target": "Package",
+          "version": "1.6.13"
+        },
+        "Microsoft.Net.Http": {
+          "target": "Package",
+          "version": "2.2.29"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
