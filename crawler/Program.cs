@@ -11,7 +11,8 @@ namespace crawler
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            startCrawler();
+           startCrawler().Wait();
+            Console.Write("oya");
         }
 
         private static async Task startCrawler()
@@ -28,6 +29,7 @@ namespace crawler
                 .Descendants("div").SingleOrDefault(node => node.GetAttributeValue("class", "").Equals("content"));
 
             Console.WriteLine(contentDiv);
+            Console.WriteLine("b");
 
         }
     }
