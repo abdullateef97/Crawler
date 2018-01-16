@@ -6,7 +6,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler/bin/Debug/netcoreapp2.0/crawler.pdb" afterPath="$PROJECT_DIR$/crawler/bin/Debug/netcoreapp2.0/crawler.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler/obj/Debug/netcoreapp2.0/crawler.dll" afterPath="$PROJECT_DIR$/crawler/obj/Debug/netcoreapp2.0/crawler.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler/obj/Debug/netcoreapp2.0/crawler.pdb" afterPath="$PROJECT_DIR$/crawler/obj/Debug/netcoreapp2.0/crawler.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.crawler/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.crawler/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler/Program.cs" afterPath="$PROJECT_DIR$/crawler/Program.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,21 +20,29 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/crawler/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="14" column="63" lean-forward="true" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+            <state relative-caret-position="-1018">
+              <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
               <folding>
-                <marker date="1516104843611" expanded="false" signature="10:166" ph="..." />
-                <marker date="1516104843611" expanded="true" signature="193:3056" ph="{...}" />
-                <marker date="1516104843611" expanded="true" signature="221:3050" ph="{...}" />
-                <marker date="1516104843611" expanded="true" signature="275:495" ph="{...}" />
-                <marker date="1516104843611" expanded="true" signature="576:3040" ph="{...}" />
-                <marker date="1516104843611" expanded="true" signature="591:677" ph="/* var url = &quot;http://saucecode.xyz/&quot;; ... */" />
-                <marker date="1516104843611" expanded="true" signature="911:2570" ph="{...}" />
-                <marker date="1516104843611" expanded="true" signature="1408:1598" ph="/* var divs =  htmlDoc.DocumentNode.Descendants(&quot;div&quot;).Where(node =&gt; ... */" />
-                <marker date="1516104843611" expanded="true" signature="2032:2498" ph="{...}" />
-                <marker date="1516104843611" expanded="true" signature="2221:2451" ph="{...}" />
-                <marker date="1516104843611" expanded="true" signature="2607:2728" ph="{...}" />
-                <marker date="1516104843611" expanded="true" signature="2750:3021" ph="/* var contentDiv = htmlDoc.DocumentNode ... */" />
+                <marker date="1516112456626" expanded="false" signature="10:215" ph="..." />
+                <marker date="1516112456626" expanded="true" signature="242:5026" ph="{...}" />
+                <marker date="1516112456626" expanded="true" signature="270:5020" ph="{...}" />
+                <marker date="1516112456626" expanded="true" signature="324:544" ph="{...}" />
+                <marker date="1516112456626" expanded="true" signature="625:2812" ph="{...}" />
+                <marker date="1516112456626" expanded="true" signature="765:2597" ph="{...}" />
+                <marker date="1516112456626" expanded="true" signature="1173:1491" ph="/* var divs =  htmlDoc.DocumentNode ... */" />
+                <marker date="1516112456626" expanded="true" signature="1938:2369" ph="{...}" />
+                <marker date="1516112456626" expanded="true" signature="2032:2346" ph="{...}" />
+                <marker date="1516112456626" expanded="true" signature="2394:2494" ph="{...}" />
+                <marker date="1516112456626" expanded="true" signature="2634:2797" ph="{...}" />
+                <marker date="1516112456626" expanded="true" signature="2891:5010" ph="{...}" />
+                <marker date="1516112456626" expanded="true" signature="3018:3123" ph="/* httpClient.Timeout = TimeSpan.FromMinutes(500); ... */" />
+                <marker date="1516112456626" expanded="true" signature="3143:4833" ph="{...}" />
+                <marker date="1516112456626" expanded="true" signature="3323:3438" ph="/* Console.WriteLine(3); ... */" />
+                <marker date="1516112456626" expanded="true" signature="3648:3838" ph="/* var divs =  htmlDoc.DocumentNode.Descendants(&quot;div&quot;).Where(node =&gt; ... */" />
+                <marker date="1516112456626" expanded="true" signature="4094:4189" ph="/* Console.WriteLine(&quot;bbbb&quot;); ... */" />
+                <marker date="1516112456626" expanded="true" signature="4302:4764" ph="{...}" />
+                <marker date="1516112456626" expanded="true" signature="4491:4717" ph="{...}" />
+                <marker date="1516112456626" expanded="true" signature="4870:4991" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -153,12 +160,12 @@
       <workItem from="1515754003670" duration="222000" />
       <workItem from="1516001042648" duration="1518000" />
       <workItem from="1516014204306" duration="13067000" />
-      <workItem from="1516089335255" duration="14650000" />
+      <workItem from="1516089335255" duration="19216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30624000" />
+    <option name="totallyTimeSpent" value="35190000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -179,11 +186,11 @@
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49455675" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2717989" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24980362" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39968896" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -215,7 +222,7 @@
           <properties />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="12" />
+      <option name="time" value="17" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -225,18 +232,26 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1516104843611" expanded="false" signature="10:166" ph="..." />
-            <marker date="1516104843611" expanded="true" signature="193:3056" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="221:3050" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="275:495" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="576:3040" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="591:677" ph="/* var url = &quot;http://saucecode.xyz/&quot;; ... */" />
-            <marker date="1516104843611" expanded="true" signature="911:2570" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="1408:1598" ph="/* var divs =  htmlDoc.DocumentNode.Descendants(&quot;div&quot;).Where(node =&gt; ... */" />
-            <marker date="1516104843611" expanded="true" signature="2032:2498" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="2221:2451" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="2607:2728" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="2750:3021" ph="/* var contentDiv = htmlDoc.DocumentNode ... */" />
+            <marker date="1516112456626" expanded="false" signature="10:215" ph="..." />
+            <marker date="1516112456626" expanded="true" signature="242:5026" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="270:5020" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="324:544" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="625:2812" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="765:2597" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="1173:1491" ph="/* var divs =  htmlDoc.DocumentNode ... */" />
+            <marker date="1516112456626" expanded="true" signature="1938:2369" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="2032:2346" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="2394:2494" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="2634:2797" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="2891:5010" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="3018:3123" ph="/* httpClient.Timeout = TimeSpan.FromMinutes(500); ... */" />
+            <marker date="1516112456626" expanded="true" signature="3143:4833" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="3323:3438" ph="/* Console.WriteLine(3); ... */" />
+            <marker date="1516112456626" expanded="true" signature="3648:3838" ph="/* var divs =  htmlDoc.DocumentNode.Descendants(&quot;div&quot;).Where(node =&gt; ... */" />
+            <marker date="1516112456626" expanded="true" signature="4094:4189" ph="/* Console.WriteLine(&quot;bbbb&quot;); ... */" />
+            <marker date="1516112456626" expanded="true" signature="4302:4764" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="4491:4717" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="4870:4991" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -246,18 +261,26 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1516104843611" expanded="false" signature="10:166" ph="..." />
-            <marker date="1516104843611" expanded="true" signature="193:3056" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="221:3050" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="275:495" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="576:3040" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="591:677" ph="/* var url = &quot;http://saucecode.xyz/&quot;; ... */" />
-            <marker date="1516104843611" expanded="true" signature="911:2570" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="1408:1598" ph="/* var divs =  htmlDoc.DocumentNode.Descendants(&quot;div&quot;).Where(node =&gt; ... */" />
-            <marker date="1516104843611" expanded="true" signature="2032:2498" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="2221:2451" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="2607:2728" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="2750:3021" ph="/* var contentDiv = htmlDoc.DocumentNode ... */" />
+            <marker date="1516112456626" expanded="false" signature="10:215" ph="..." />
+            <marker date="1516112456626" expanded="true" signature="242:5026" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="270:5020" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="324:544" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="625:2812" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="765:2597" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="1173:1491" ph="/* var divs =  htmlDoc.DocumentNode ... */" />
+            <marker date="1516112456626" expanded="true" signature="1938:2369" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="2032:2346" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="2394:2494" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="2634:2797" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="2891:5010" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="3018:3123" ph="/* httpClient.Timeout = TimeSpan.FromMinutes(500); ... */" />
+            <marker date="1516112456626" expanded="true" signature="3143:4833" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="3323:3438" ph="/* Console.WriteLine(3); ... */" />
+            <marker date="1516112456626" expanded="true" signature="3648:3838" ph="/* var divs =  htmlDoc.DocumentNode.Descendants(&quot;div&quot;).Where(node =&gt; ... */" />
+            <marker date="1516112456626" expanded="true" signature="4094:4189" ph="/* Console.WriteLine(&quot;bbbb&quot;); ... */" />
+            <marker date="1516112456626" expanded="true" signature="4302:4764" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="4491:4717" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="4870:4991" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -267,18 +290,26 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1516104843611" expanded="false" signature="10:166" ph="..." />
-            <marker date="1516104843611" expanded="true" signature="193:3056" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="221:3050" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="275:495" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="576:3040" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="591:677" ph="/* var url = &quot;http://saucecode.xyz/&quot;; ... */" />
-            <marker date="1516104843611" expanded="true" signature="911:2570" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="1408:1598" ph="/* var divs =  htmlDoc.DocumentNode.Descendants(&quot;div&quot;).Where(node =&gt; ... */" />
-            <marker date="1516104843611" expanded="true" signature="2032:2498" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="2221:2451" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="2607:2728" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="2750:3021" ph="/* var contentDiv = htmlDoc.DocumentNode ... */" />
+            <marker date="1516112456626" expanded="false" signature="10:215" ph="..." />
+            <marker date="1516112456626" expanded="true" signature="242:5026" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="270:5020" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="324:544" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="625:2812" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="765:2597" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="1173:1491" ph="/* var divs =  htmlDoc.DocumentNode ... */" />
+            <marker date="1516112456626" expanded="true" signature="1938:2369" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="2032:2346" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="2394:2494" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="2634:2797" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="2891:5010" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="3018:3123" ph="/* httpClient.Timeout = TimeSpan.FromMinutes(500); ... */" />
+            <marker date="1516112456626" expanded="true" signature="3143:4833" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="3323:3438" ph="/* Console.WriteLine(3); ... */" />
+            <marker date="1516112456626" expanded="true" signature="3648:3838" ph="/* var divs =  htmlDoc.DocumentNode.Descendants(&quot;div&quot;).Where(node =&gt; ... */" />
+            <marker date="1516112456626" expanded="true" signature="4094:4189" ph="/* Console.WriteLine(&quot;bbbb&quot;); ... */" />
+            <marker date="1516112456626" expanded="true" signature="4302:4764" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="4491:4717" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="4870:4991" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -288,39 +319,55 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1516104843611" expanded="false" signature="10:166" ph="..." />
-            <marker date="1516104843611" expanded="true" signature="193:3056" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="221:3050" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="275:495" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="576:3040" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="591:677" ph="/* var url = &quot;http://saucecode.xyz/&quot;; ... */" />
-            <marker date="1516104843611" expanded="true" signature="911:2570" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="1408:1598" ph="/* var divs =  htmlDoc.DocumentNode.Descendants(&quot;div&quot;).Where(node =&gt; ... */" />
-            <marker date="1516104843611" expanded="true" signature="2032:2498" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="2221:2451" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="2607:2728" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="2750:3021" ph="/* var contentDiv = htmlDoc.DocumentNode ... */" />
+            <marker date="1516112456626" expanded="false" signature="10:215" ph="..." />
+            <marker date="1516112456626" expanded="true" signature="242:5026" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="270:5020" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="324:544" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="625:2812" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="765:2597" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="1173:1491" ph="/* var divs =  htmlDoc.DocumentNode ... */" />
+            <marker date="1516112456626" expanded="true" signature="1938:2369" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="2032:2346" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="2394:2494" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="2634:2797" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="2891:5010" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="3018:3123" ph="/* httpClient.Timeout = TimeSpan.FromMinutes(500); ... */" />
+            <marker date="1516112456626" expanded="true" signature="3143:4833" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="3323:3438" ph="/* Console.WriteLine(3); ... */" />
+            <marker date="1516112456626" expanded="true" signature="3648:3838" ph="/* var divs =  htmlDoc.DocumentNode.Descendants(&quot;div&quot;).Where(node =&gt; ... */" />
+            <marker date="1516112456626" expanded="true" signature="4094:4189" ph="/* Console.WriteLine(&quot;bbbb&quot;); ... */" />
+            <marker date="1516112456626" expanded="true" signature="4302:4764" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="4491:4717" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="4870:4991" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawler/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="14" column="63" lean-forward="true" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+        <state relative-caret-position="-1018">
+          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
           <folding>
-            <marker date="1516104843611" expanded="false" signature="10:166" ph="..." />
-            <marker date="1516104843611" expanded="true" signature="193:3056" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="221:3050" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="275:495" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="576:3040" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="591:677" ph="/* var url = &quot;http://saucecode.xyz/&quot;; ... */" />
-            <marker date="1516104843611" expanded="true" signature="911:2570" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="1408:1598" ph="/* var divs =  htmlDoc.DocumentNode.Descendants(&quot;div&quot;).Where(node =&gt; ... */" />
-            <marker date="1516104843611" expanded="true" signature="2032:2498" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="2221:2451" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="2607:2728" ph="{...}" />
-            <marker date="1516104843611" expanded="true" signature="2750:3021" ph="/* var contentDiv = htmlDoc.DocumentNode ... */" />
+            <marker date="1516112456626" expanded="false" signature="10:215" ph="..." />
+            <marker date="1516112456626" expanded="true" signature="242:5026" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="270:5020" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="324:544" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="625:2812" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="765:2597" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="1173:1491" ph="/* var divs =  htmlDoc.DocumentNode ... */" />
+            <marker date="1516112456626" expanded="true" signature="1938:2369" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="2032:2346" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="2394:2494" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="2634:2797" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="2891:5010" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="3018:3123" ph="/* httpClient.Timeout = TimeSpan.FromMinutes(500); ... */" />
+            <marker date="1516112456626" expanded="true" signature="3143:4833" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="3323:3438" ph="/* Console.WriteLine(3); ... */" />
+            <marker date="1516112456626" expanded="true" signature="3648:3838" ph="/* var divs =  htmlDoc.DocumentNode.Descendants(&quot;div&quot;).Where(node =&gt; ... */" />
+            <marker date="1516112456626" expanded="true" signature="4094:4189" ph="/* Console.WriteLine(&quot;bbbb&quot;); ... */" />
+            <marker date="1516112456626" expanded="true" signature="4302:4764" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="4491:4717" ph="{...}" />
+            <marker date="1516112456626" expanded="true" signature="4870:4991" ph="{...}" />
           </folding>
         </state>
       </provider>
