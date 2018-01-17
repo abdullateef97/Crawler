@@ -6,6 +6,7 @@
       <e p="crawler" t="IncludeRecursive">
         <e p="Program.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="contestants.txt" t="Include" />
         <e p="crawler.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">

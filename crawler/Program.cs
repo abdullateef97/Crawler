@@ -33,11 +33,6 @@
                     var mainDiv = htmlDoc.DocumentNode
                         .Descendants("div").SingleOrDefault(node =>
                             node.GetAttributeValue("class", "").Equals("col-md-6 col-sm-8"));
-//                    var divs =  htmlDoc.DocumentNode
-//                        .Descendants("div").SingleOrDefault(node => node.GetAttributeValue("class", "").
-//                            Equals("col-md-6 col-sm-8"));
-//                    Console.WriteLine(divs);
-//                    Console.WriteLine(mainDiv);
                     var paginationDiv = mainDiv?.Descendants("ul")
                         .SingleOrDefault(node => node.GetAttributeValue("class", "")
                             .Equals("pagination"));
@@ -76,29 +71,21 @@
             {
 //                string url = "http://saucecode.xyz/teams";
                 var httpClient = new HttpClient();
-//                httpClient.Timeout = TimeSpan.FromMinutes(500);
-//                Console.WriteLine(1);
+
                 try
                 {
-                  //  Console.WriteLine(2);
                     var html = await httpClient.GetStringAsync(new Uri(url));
                     
-                  //  Console.WriteLine(3);
-                    
-//                    httpClient.Timeout = TimeSpan.FromMinutes(50);
+                  
                     var htmlDoc = new HtmlDocument();
-                   // Console.WriteLine(21);
                     htmlDoc.LoadHtml(html);
-                  //  Console.WriteLine(31);
+              
                    
-
-//                    var divs =  htmlDoc.DocumentNode.Descendants("div").Where(node =>
-//                        node.GetAttributeValue("class", "").Equals("col-md-6 col-sm-8")).ToString();
                  var divs =  htmlDoc.DocumentNode
                               .Descendants("div").SingleOrDefault(node => node.GetAttributeValue("class", "").
                          Equals("col-md-6 col-sm-8"));
                     
-                  //  Console.WriteLine("bbbb");
+                  
 //                    List<string> strList = new List<string>();
                     var teams = divs?.Descendants("a").ToList();
                     foreach (var team in teams)
@@ -109,8 +96,9 @@
                            list.Add(name);
                             
                             var splitName = name.Trim().Substring(13);
-                            sw.WriteLine(splitName);
-                            Console.WriteLine(splitName);  
+                            
+                            Console.WriteLine(splitName); 
+                            sw.Write(splitName);
                         }
                         
                     }
